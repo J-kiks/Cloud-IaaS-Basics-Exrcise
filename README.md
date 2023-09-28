@@ -14,7 +14,7 @@ DigitalOcean, Linux, Java, Gradle.
 
 . Created and configured a new Linux user on the Droplet/EC2 instance (which is a security best practice)
 
-. Deployed and ran a Java Gradle application on Droplet
+. Deployed and ran a Java Gradle & Nodejs  application on Droplet
 
 
 #### "Cloud Basics"
