@@ -1,16 +1,14 @@
 #### This project is for the Devops bootcamp exercise for Techworld-with-nana
 
-Demo Project:
-
+####Demo Project:
 Create server and deploy application on DigitalOcean
 
 
-Technologies used:
-
+####Technologies used:
 DigitalOcean, Linux, Java, Gradle.
 
 
-Project Description:
+####Project Description:
 
 . Setup and configured a server on DigitalOcean (e.g firewalls etc.)
 
